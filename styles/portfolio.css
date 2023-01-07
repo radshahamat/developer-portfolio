@@ -27,7 +27,7 @@ nav{
     display: flex;
     /* Mary and portfolio etc ke 2 pashe pathanu. h2 and ul k 2 pashe pathay dibe jotota possible space diye */
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 /* header and nav styles */
 .nav-title{
